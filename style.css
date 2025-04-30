@@ -1,0 +1,28 @@
+.h1
+{
+    font-size: small;
+}
+.nama
+{
+    color: yellow; background-color: blue;
+}
+
+#nim
+{
+    color: blue;
+}
+
+.teks1
+{
+    text-align: center;
+}
+
+.teks2
+{
+    background-color: yellow; font-style: italic;
+}
+
+#link
+{
+    color: black;
+}
