@@ -1,22 +1,24 @@
+/*class h1, mengubah ukuran huruf*/
 .h1
 {
     font-size: small;
 }
+/*class nama, mengubah warna huruf dan background*/
 .nama
 {
     color: yellow; background-color: blue;
 }
-
+/*id nim, mengubah warna huruf*/
 #nim
 {
     color: blue;
 }
-
+/*class tek1, mengubah posisi huruf menjadi di tengah*/
 .teks1
 {
     text-align: center;
 }
-
+/*class teks2, mengubah gaya huruf dan warna background*/
 .teks2
 {
     background-color: yellow; font-style: italic;
